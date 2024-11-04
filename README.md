@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a graduation project
 - 🌱 I’m currently learning Machine Learning and SOC analysis and Networking Security
 - 💬 Ask me about Networking and Firewalls and Digital Forensics
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/momen-ameer-7b3032233"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/momen-ameer-7b3032233">LinkedIn</a>
 - ⚡ My Repos: <a href="https://github.com/E0xMomen?tab=repositories">Here:</a>
 
 
