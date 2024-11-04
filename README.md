@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**E0xMomen/E0xMomen** is a ✨ Cybersecurity Enginner ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**E0 Momen/** My name is Momen Ameer Abdul Momen Ali ✨ Cybersecurity Engineer ✨ Love My Career and hope to grow in my feild With A lot of Experience
 
 - 🔭 I’m currently working on a graduation project
 - 🌱 I’m currently learning Machine Learning and SOC analysis and Networking Security
