@@ -13,5 +13,5 @@
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=kali,linux,github,vscode,phpstorm" />
-    <img src="https://skillicons.dev/icons?i=python,php,mysql,,html,css," /><br>
+    <img src="https://skillicons.dev/icons?i=python,php,java,c++,mysql,html,css," /><br>
 </div>
