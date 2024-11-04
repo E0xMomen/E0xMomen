@@ -8,3 +8,10 @@
 - 💬 Ask me about Networking and Firewalls and Digital Forensics
 - 📫 How to reach me: <a href="www.linkedin.com/in/momen-ameer-7b3032233"></a>
 - ⚡ My Repos: https://github.com/E0xMomen?tab=repositories
+
+
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=kali,linux,github,vscode,phpstorm" />
+    <img src="https://skillicons.dev/icons?i=python,php,mysql,,html,css," /><br>
+</div>
